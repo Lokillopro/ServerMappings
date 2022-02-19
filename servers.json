@@ -1,5 +1,13 @@
 [
     {
+        "id": "zorus",
+        "name": "Zorus Network",
+        "addresses": [
+            "zorus.me",
+	    "play.zorus.me"
+        ]
+    },
+    {
         "id": "astromc",
         "name": "AstroMC",
         "addresses": [
