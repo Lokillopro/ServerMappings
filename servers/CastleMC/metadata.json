@@ -1,0 +1,38 @@
+{
+    "id": "castlemc",
+    "name": "CastleMC Network",
+    "description": "Tu mejor opcion para pasar un buen rato!",
+    "addresses": [
+        "mc.castlemc.es",
+        "castlemc.es",
+        "play.castlemc.es",
+    ],
+    "primaryAddress": "mc.castlemc.es",
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://castlemc.es/",
+    "store": "https://tienda.castlemc.es/",
+    "primaryColor": "#ff3344",
+    "secondaryColor": "#ffffff",
+    "socials": {
+        "twitter": "CastleMCNW",
+        "discord": "https://dsc.gg/castlenw",
+        "youtube": "CastleMC",
+        "instagram": "CastleMCNW"
