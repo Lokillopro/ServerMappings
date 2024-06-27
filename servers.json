@@ -94,6 +94,14 @@
         ]
     },    
     {
+        "id": "castlemc",
+        "name": "CastleMC",
+        "addresses": [
+            "castlemc.net",    
+            "mc.castlemc.net",
+        ]
+    }, 
+    {
         "id": "edenmine",
         "name": "EdenMine Network",
         "addresses": [
